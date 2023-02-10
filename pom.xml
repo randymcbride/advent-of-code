@@ -8,7 +8,7 @@
   <artifactId>advent-of-code</artifactId>
   <version>1.0-SNAPSHOT</version>
   <dependencies>
-    <dependency>
+     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -20,11 +20,11 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter</artifactId>
-      <version>RELEASE</version>
-      <scope>test</scope>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.24</version>
     </dependency>
+
   </dependencies>
 
 
